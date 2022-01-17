@@ -389,7 +389,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"CC-BY-SA 3.0:\n - http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/\n - See the file: cc-by-sa-3.0.txt\nGNU GPL 3.0:\n - http:\/\/www.gnu.org\/licenses\/gpl-3.0.html\n - See the file: gpl-3.0.txt\n\nAssets from: workadventure@thecodingmachine.com"
+         "value":"CC-BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)"
         }, 
         {
          "name":"mapDescription",
@@ -428,6 +428,12 @@
          "imagewidth":544,
          "margin":1,
          "name":"Celiana-interiors-1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(C) 2015 Pixanna; artist Celianna."
+                }],
          "spacing":2,
          "tilecount":256,
          "tileheight":32,
@@ -441,6 +447,12 @@
          "imagewidth":544,
          "margin":1,
          "name":"Celiana-interiors-3",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(C) 2015 Pixanna; artist Celianna."
+                }],
          "spacing":2,
          "tilecount":256,
          "tileheight":32,
@@ -454,6 +466,12 @@
          "imagewidth":544,
          "margin":1,
          "name":"Celiana-interiors-4",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(C) 2015 Pixanna; artist Celianna."
+                }],
          "spacing":2,
          "tilecount":256,
          "tileheight":32,
@@ -467,6 +485,12 @@
          "imagewidth":136,
          "margin":1,
          "name":"Celiana-interiors-food",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"(C) 2015 Pixanna; artist Celianna."
+                }],
          "spacing":2,
          "tilecount":24,
          "tileheight":32,
@@ -480,6 +504,12 @@
          "imagewidth":34,
          "margin":1,
          "name":"panneau",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"workadventu.re"
+                }],
          "spacing":2,
          "tilecount":1,
          "tileheight":32,
@@ -493,6 +523,12 @@
          "imagewidth":442,
          "margin":1,
          "name":"wa_tilesets_ag",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"workadventu.re"
+                }],
          "spacing":2,
          "tilecount":481,
          "tileheight":32,
@@ -506,6 +542,12 @@
          "imagewidth":612,
          "margin":1,
          "name":"wa_tilesets_ag_v2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"workadventu.re"
+                }],
          "spacing":2,
          "tilecount":522,
          "tileheight":32,
@@ -519,6 +561,12 @@
          "imagewidth":136,
          "margin":1,
          "name":"wa-bureaux-blancs",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"workadventu.re"
+                }],
          "spacing":2,
          "tilecount":16,
          "tileheight":32,
@@ -532,6 +580,12 @@
          "imagewidth":408,
          "margin":1,
          "name":"wa-escaliers",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"workadventu.re"
+                }],
          "spacing":2,
          "tilecount":120,
          "tileheight":32,
@@ -545,6 +599,12 @@
          "imagewidth":1360,
          "margin":1,
          "name":"walls_floors_edited",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"workadventu.re"
+                }],
          "spacing":2,
          "tilecount":2320,
          "tileheight":32,
@@ -558,6 +618,12 @@
          "imagewidth":340,
          "margin":1,
          "name":"wa-mobilier1",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"workadventu.re"
+                }],
          "spacing":2,
          "tilecount":100,
          "tileheight":32,
@@ -571,6 +637,12 @@
          "imagewidth":340,
          "margin":1,
          "name":"wa-mobilier2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"workadventu.re"
+                }],
          "spacing":2,
          "tilecount":100,
          "tileheight":32,
@@ -584,6 +656,12 @@
          "imagewidth":374,
          "margin":1,
          "name":"wa-tables-chaise-2",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"workadventu.re"
+                }],
          "spacing":2,
          "tilecount":121,
          "tileheight":32,
@@ -597,6 +675,12 @@
          "imagewidth":374,
          "margin":1,
          "name":"wa-tables-chaises",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"workadventu.re"
+                }],
          "spacing":2,
          "tilecount":121,
          "tileheight":32,
