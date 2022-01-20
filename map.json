@@ -443,7 +443,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Custom map VEEPEE"
+         "value":"Awesome office"
         }, 
         {
          "name":"mapImage",
@@ -453,7 +453,7 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/play.workadventu.re\/@\/veepee\/brief-virtual-office\/warsaw"
+         "value":"https:\/\/valdotr.github.io\/big-agency\/map.json"
         }, 
         {
          "name":"mapName",
@@ -463,7 +463,12 @@
         {
          "name":"script",
          "type":"string",
-         "value":"script-crackthecode.js"
+         "value":"script.js"
+        }, 
+        {
+         "name":"tutorial",
+         "type":"bool",
+         "value":true
         }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
