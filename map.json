@@ -370,11 +370,6 @@
                  "point":true,
                  "properties":[
                         {
-                         "name":"default",
-                         "type":"string",
-                         "value":""
-                        }, 
-                        {
                          "name":"description",
                          "type":"string",
                          "value":"A room URL starts with \"\/@\/\""
@@ -388,11 +383,6 @@
                          "name":"persist",
                          "type":"bool",
                          "value":true
-                        }, 
-                        {
-                         "name":"writableBy",
-                         "type":"string",
-                         "value":"admin"
                         }],
                  "rotation":0,
                  "type":"variable",
@@ -443,7 +433,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Awesome office"
+         "value":"Awesome Big Agency"
         }, 
         {
          "name":"mapImage",
@@ -458,7 +448,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"warsaw"
+         "value":"Big Agency"
         }, 
         {
          "name":"script",
