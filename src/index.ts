@@ -11,7 +11,9 @@ WA.onInit().then(() => {
     // Show configuration tile for editors only
     if (WA.player.tags.includes('editor')) {
         WA.room.showLayer('exitNorthConfig')
+        WA.room.showLayer('exitSouthConfig')
         WA.room.showLayer('exitWestConfig')
+        WA.room.showLayer('exitEastConfig')
     }
 
     // The line below bootstraps the Scripting API Extra library that adds a number of advanced properties/features to WorkAdventure
