@@ -647,7 +647,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Awesome Big Agency"
+         "value":"Suitable for up to 50 users.\n\nAn awesome but simple agency space. This building located in the middle of a park has a bunch of desks, a big meeting room and a reception."
         }, 
         {
          "name":"mapImage",
@@ -657,7 +657,7 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/valdotr.github.io\/big-agency\/map.json"
+         "value":"https:\/\/workadventure.github.io\/scripting-api-extra\/map.json"
         }, 
         {
          "name":"mapName",
